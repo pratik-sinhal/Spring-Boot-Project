@@ -11,7 +11,7 @@
 	<groupId>com.pratik</groupId>
 	<artifactId>project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Project</name>
+	<name>Spring-Boot-Project</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
